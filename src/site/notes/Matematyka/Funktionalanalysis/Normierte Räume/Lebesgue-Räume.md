@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matematyka/funktionalanalysis/normierte-raeume/lebesgue-raeume/","created":"2025-11-07T01:04:23.060+01:00","updated":"2025-11-07T22:36:55.249+01:00"}
+{"dg-publish":true,"permalink":"/matematyka/funktionalanalysis/normierte-raeume/lebesgue-raeume/","created":"2025-11-07T01:04:23.060+01:00","updated":"2025-11-07T22:37:50.371+01:00"}
 ---
 
 
