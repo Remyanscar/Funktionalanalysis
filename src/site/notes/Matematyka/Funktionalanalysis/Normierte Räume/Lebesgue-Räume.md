@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matematyka/funktionalanalysis/normierte-raeume/lebesgue-raeume/","created":"2025-11-07T01:04:23.060+01:00","updated":"2025-11-07T22:48:12.182+01:00"}
+{"dg-publish":true,"permalink":"/matematyka/funktionalanalysis/normierte-raeume/lebesgue-raeume/","created":"2025-11-07T01:04:23.060+01:00","updated":"2025-11-07T23:10:18.662+01:00"}
 ---
 
 
@@ -643,7 +643,7 @@ Md5: 604d2bae94bb1307ba73bf712ced1cb85815bfaf597354d324ac2d45870f9262
 > 
 > $${\large\left\|{\normalsize\left[f\right]}\vphantom{sum}\right\|}_{p} := \left\|f\vphantom{A}\right\|_{p}^{\star} = \left(\int_{I}\left|f\right|^{p}\ \mathrm{d}\lambda\right)^{\frac{1}{p}}$$
 > 
-> *«Alternative Notation ist $\left\|\,{\cdot}\,\vphantom{A}\right\|_{{L}^{p}}$»*
+> *«Alternative Notation ist $\left\|\,{\cdot}\,\vphantom{A}\right\|_{L^{p}}$»*
 > 
 > Wir behaupten, dass $\left({L}^{p}\left(I\right)\ ,\,\left\|\,{\large\cdot}\,\vphantom{A}\right\|_{p}\right)$ ein ***Banachraum*** ist.
 > 
