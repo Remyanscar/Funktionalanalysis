@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/matematyka/funktionalanalysis/normierte-raeume/lebesgue-raeume/","created":"2025-11-07T01:04:23.060+01:00","updated":"2025-11-07T22:38:31.783+01:00"}
+{"dg-publish":true,"permalink":"/matematyka/funktionalanalysis/normierte-raeume/lebesgue-raeume/","created":"2025-11-07T01:04:23.060+01:00","updated":"2025-11-07T22:39:00.060+01:00"}
 ---
 
 
-# HI
+# HIi
 
 <!--META:
 Modified: 2025-11-07 01:19
